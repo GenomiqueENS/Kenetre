@@ -8,4 +8,6 @@ The current avaiblable modules are :
 - **illumina**: Illumina dedicated classes (e.g. samplesheet manipulation classes);
 - **nanopore*: Nanopore dedicated classes (e.g. Fast5 manupulation class);
 
+Coucou
+
 This software is developped by the [GenomiqueENS core facility](https://genomique.biologie.ens.fr/) of the [Institute of Biology of the Ecole Normale Superieure (IBENS)](http://www.ibens.bio.ens.psl.eu/).
